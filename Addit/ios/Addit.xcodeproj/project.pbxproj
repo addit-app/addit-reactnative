@@ -36,6 +36,28 @@
 		2D16E6881FA4F8E400B85C8A /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D16E6891FA4F8E400B85C8A /* libReact.a */; };
 		2DCD954D1E0B4F2C00145EB5 /* AdditTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* AdditTests.m */; };
 		2DF0FFEE2056DD460020B375 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3EA31DF850E9000B6D8A /* libReact.a */; };
+		5122CCEB2236B62500B2D9E0 /* libfishhook.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D16E6841FA4F8DC00B85C8A /* libfishhook.a */; };
+		5122CCEC2236B62500B2D9E0 /* libjsi.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5160D8E9220A09B100F53C60 /* libjsi.a */; };
+		5122CCED2236B62500B2D9E0 /* libjsiexecutor.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5160D8EB220A09B100F53C60 /* libjsiexecutor.a */; };
+		5122CCEE2236B62500B2D9E0 /* libjsinspector.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2DF0FFDF2056DD460020B375 /* libjsinspector.a */; };
+		5122CCEF2236B62500B2D9E0 /* libRCTActionSheet.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302AC1ABCB8CE00DB3ED1 /* libRCTActionSheet.a */; };
+		5122CCF02236B62500B2D9E0 /* libRCTAnimation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E9157331DD0AC6500FF2AA8 /* libRCTAnimation.a */; };
+		5122CCF12236B62500B2D9E0 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
+		5122CCF22236B62500B2D9E0 /* libRCTGeolocation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302BA1ABCB90400DB3ED1 /* libRCTGeolocation.a */; };
+		5122CCF32236B62500B2D9E0 /* libRCTImage.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302C01ABCB91800DB3ED1 /* libRCTImage.a */; };
+		5122CCF42236B62500B2D9E0 /* libRCTLinking.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 78C398B91ACF4ADC00677621 /* libRCTLinking.a */; };
+		5122CCF52236B62500B2D9E0 /* libRCTNetwork.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302DC1ABCB9D200DB3ED1 /* libRCTNetwork.a */; };
+		5122CCF62236B62500B2D9E0 /* libRCTSettings.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 139105C11AF99BAD00B5F7CC /* libRCTSettings.a */; };
+		5122CCF72236B62500B2D9E0 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
+		5122CCF82236B62500B2D9E0 /* libRCTVibration.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302E41ABCB9EE00DB3ED1 /* libRCTVibration.a */; };
+		5122CCF92236B62500B2D9E0 /* libRCTWebSocket.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 139FDEF41B06529B00C62182 /* libRCTWebSocket.a */; };
+		5122CCFA2236B62500B2D9E0 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
+		5122CCFB2236B62500B2D9E0 /* libReactNativeShareExtension.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 519419A82236AE17009FBE50 /* libReactNativeShareExtension.a */; };
+		5122CCFC2236B62500B2D9E0 /* libSplashScreen.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5160D902220A0E4000F53C60 /* libSplashScreen.a */; };
+		5122CCFF2236B63800B2D9E0 /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED297162215061F000B7C4FE /* JavaScriptCore.framework */; };
+		519419722236AD49009FBE50 /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 519419702236AD49009FBE50 /* MainInterface.storyboard */; };
+		519419762236AD49009FBE50 /* MyShareEx.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 5194196B2236AD49009FBE50 /* MyShareEx.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		519419A22236ADAD009FBE50 /* MyShareEx.m in Sources */ = {isa = PBXBuildFile; fileRef = 519419A12236ADAD009FBE50 /* MyShareEx.m */; };
 		7794B693E6834A4D9DDF5E66 /* libSplashScreen.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D5B33CD8B2D544E797EF3C29 /* libSplashScreen.a */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
@@ -289,6 +311,20 @@
 			remoteGlobalIDString = 3D7682761D8E76B80014119E;
 			remoteInfo = SplashScreen;
 		};
+		519419742236AD49009FBE50 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5194196A2236AD49009FBE50;
+			remoteInfo = MyShareEx;
+		};
+		519419A72236AE17009FBE50 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 519419A32236AE16009FBE50 /* ReactNativeShareExtension.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 41B5DE301D0B505800949BD5;
+			remoteInfo = ReactNativeShareExtension;
+		};
 		5E9157321DD0AC6500FF2AA8 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 5E91572D1DD0AC6500FF2AA8 /* RCTAnimation.xcodeproj */;
@@ -326,6 +362,20 @@
 		};
 /* End PBXContainerItemProxy section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		519419A02236AD49009FBE50 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				519419762236AD49009FBE50 /* MyShareEx.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
 		00C302A71ABCB8CE00DB3ED1 /* RCTActionSheet.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTActionSheet.xcodeproj; path = "../node_modules/react-native/Libraries/ActionSheetIOS/RCTActionSheet.xcodeproj"; sourceTree = "<group>"; };
@@ -350,6 +400,11 @@
 		2D02E4901E0B4A5D006451C7 /* Addit-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Addit-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D16E6891FA4F8E400B85C8A /* libReact.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libReact.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		5160D8FD220A0E4000F53C60 /* SplashScreen.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = SplashScreen.xcodeproj; path = "../node_modules/react-native-splash-screen/ios/SplashScreen.xcodeproj"; sourceTree = "<group>"; };
+		5194196B2236AD49009FBE50 /* MyShareEx.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = MyShareEx.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		519419712236AD49009FBE50 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainInterface.storyboard; sourceTree = "<group>"; };
+		519419732236AD49009FBE50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		519419A12236ADAD009FBE50 /* MyShareEx.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyShareEx.m; sourceTree = "<group>"; };
+		519419A32236AE16009FBE50 /* ReactNativeShareExtension.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ReactNativeShareExtension.xcodeproj; path = "../node_modules/react-native-share-extension/ios/ReactNativeShareExtension.xcodeproj"; sourceTree = "<group>"; };
 		5E91572D1DD0AC6500FF2AA8 /* RCTAnimation.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTAnimation.xcodeproj; path = "../node_modules/react-native/Libraries/NativeAnimation/RCTAnimation.xcodeproj"; sourceTree = "<group>"; };
 		78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTLinking.xcodeproj; path = "../node_modules/react-native/Libraries/LinkingIOS/RCTLinking.xcodeproj"; sourceTree = "<group>"; };
 		832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTText.xcodeproj; path = "../node_modules/react-native/Libraries/Text/RCTText.xcodeproj"; sourceTree = "<group>"; };
@@ -410,6 +465,32 @@
 			buildActionMask = 2147483647;
 			files = (
 				2DF0FFEE2056DD460020B375 /* libReact.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		519419682236AD49009FBE50 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5122CCFF2236B63800B2D9E0 /* JavaScriptCore.framework in Frameworks */,
+				5122CCEB2236B62500B2D9E0 /* libfishhook.a in Frameworks */,
+				5122CCEC2236B62500B2D9E0 /* libjsi.a in Frameworks */,
+				5122CCED2236B62500B2D9E0 /* libjsiexecutor.a in Frameworks */,
+				5122CCEE2236B62500B2D9E0 /* libjsinspector.a in Frameworks */,
+				5122CCEF2236B62500B2D9E0 /* libRCTActionSheet.a in Frameworks */,
+				5122CCF02236B62500B2D9E0 /* libRCTAnimation.a in Frameworks */,
+				5122CCF12236B62500B2D9E0 /* libRCTBlob.a in Frameworks */,
+				5122CCF22236B62500B2D9E0 /* libRCTGeolocation.a in Frameworks */,
+				5122CCF32236B62500B2D9E0 /* libRCTImage.a in Frameworks */,
+				5122CCF42236B62500B2D9E0 /* libRCTLinking.a in Frameworks */,
+				5122CCF52236B62500B2D9E0 /* libRCTNetwork.a in Frameworks */,
+				5122CCF62236B62500B2D9E0 /* libRCTSettings.a in Frameworks */,
+				5122CCF72236B62500B2D9E0 /* libRCTText.a in Frameworks */,
+				5122CCF82236B62500B2D9E0 /* libRCTVibration.a in Frameworks */,
+				5122CCF92236B62500B2D9E0 /* libRCTWebSocket.a in Frameworks */,
+				5122CCFA2236B62500B2D9E0 /* libReact.a in Frameworks */,
+				5122CCFB2236B62500B2D9E0 /* libReactNativeShareExtension.a in Frameworks */,
+				5122CCFC2236B62500B2D9E0 /* libSplashScreen.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -558,6 +639,24 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		5194196C2236AD49009FBE50 /* MyShareEx */ = {
+			isa = PBXGroup;
+			children = (
+				519419702236AD49009FBE50 /* MainInterface.storyboard */,
+				519419732236AD49009FBE50 /* Info.plist */,
+				519419A12236ADAD009FBE50 /* MyShareEx.m */,
+			);
+			path = MyShareEx;
+			sourceTree = "<group>";
+		};
+		519419A42236AE16009FBE50 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				519419A82236AE17009FBE50 /* libReactNativeShareExtension.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		5E91572E1DD0AC6500FF2AA8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -579,6 +678,7 @@
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
+				519419A32236AE16009FBE50 /* ReactNativeShareExtension.xcodeproj */,
 				5160D8FD220A0E4000F53C60 /* SplashScreen.xcodeproj */,
 				5E91572D1DD0AC6500FF2AA8 /* RCTAnimation.xcodeproj */,
 				146833FF1AC3E56700842450 /* React.xcodeproj */,
@@ -611,6 +711,7 @@
 				13B07FAE1A68108700A75B9A /* Addit */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* AdditTests */,
+				5194196C2236AD49009FBE50 /* MyShareEx */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				5160D8C2220A09AD00F53C60 /* Recovered References */,
@@ -627,6 +728,7 @@
 				00E356EE1AD99517003FC87E /* AdditTests.xctest */,
 				2D02E47B1E0B4A5D006451C7 /* Addit-tvOS.app */,
 				2D02E4901E0B4A5D006451C7 /* Addit-tvOSTests.xctest */,
+				5194196B2236AD49009FBE50 /* MyShareEx.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -669,10 +771,12 @@
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
+				519419A02236AD49009FBE50 /* Embed App Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				519419752236AD49009FBE50 /* PBXTargetDependency */,
 			);
 			name = Addit;
 			productName = "Hello World";
@@ -715,6 +819,23 @@
 			productReference = 2D02E4901E0B4A5D006451C7 /* Addit-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
+		5194196A2236AD49009FBE50 /* MyShareEx */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5194199F2236AD49009FBE50 /* Build configuration list for PBXNativeTarget "MyShareEx" */;
+			buildPhases = (
+				519419672236AD49009FBE50 /* Sources */,
+				519419682236AD49009FBE50 /* Frameworks */,
+				519419692236AD49009FBE50 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MyShareEx;
+			productName = MyShareEx;
+			productReference = 5194196B2236AD49009FBE50 /* MyShareEx.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -736,6 +857,11 @@
 						CreatedOnToolsVersion = 8.2.1;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 2D02E47A1E0B4A5D006451C7;
+					};
+					5194196A2236AD49009FBE50 = {
+						CreatedOnToolsVersion = 9.2;
+						DevelopmentTeam = 49LZN2ZTBU;
+						ProvisioningStyle = Automatic;
 					};
 				};
 			};
@@ -800,6 +926,10 @@
 					ProjectRef = 146833FF1AC3E56700842450 /* React.xcodeproj */;
 				},
 				{
+					ProductGroup = 519419A42236AE16009FBE50 /* Products */;
+					ProjectRef = 519419A32236AE16009FBE50 /* ReactNativeShareExtension.xcodeproj */;
+				},
+				{
 					ProductGroup = 5160D8FE220A0E4000F53C60 /* Products */;
 					ProjectRef = 5160D8FD220A0E4000F53C60 /* SplashScreen.xcodeproj */;
 				},
@@ -810,6 +940,7 @@
 				00E356ED1AD99517003FC87E /* AdditTests */,
 				2D02E47A1E0B4A5D006451C7 /* Addit-tvOS */,
 				2D02E48F1E0B4A5D006451C7 /* Addit-tvOSTests */,
+				5194196A2236AD49009FBE50 /* MyShareEx */,
 			);
 		};
 /* End PBXProject section */
@@ -1046,6 +1177,13 @@
 			remoteRef = 5160D901220A0E4000F53C60 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
+		519419A82236AE17009FBE50 /* libReactNativeShareExtension.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libReactNativeShareExtension.a;
+			remoteRef = 519419A72236AE17009FBE50 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
 		5E9157331DD0AC6500FF2AA8 /* libRCTAnimation.a */ = {
 			isa = PBXReferenceProxy;
 			fileType = archive.ar;
@@ -1112,6 +1250,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		519419692236AD49009FBE50 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				519419722236AD49009FBE50 /* MainInterface.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1183,6 +1329,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		519419672236AD49009FBE50 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				519419A22236ADAD009FBE50 /* MyShareEx.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -1196,6 +1350,11 @@
 			target = 2D02E47A1E0B4A5D006451C7 /* Addit-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
+		519419752236AD49009FBE50 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5194196A2236AD49009FBE50 /* MyShareEx */;
+			targetProxy = 519419742236AD49009FBE50 /* PBXContainerItemProxy */;
+		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
@@ -1206,6 +1365,14 @@
 			);
 			name = LaunchScreen.xib;
 			path = Addit;
+			sourceTree = "<group>";
+		};
+		519419702236AD49009FBE50 /* MainInterface.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				519419712236AD49009FBE50 /* Base */,
+			);
+			name = MainInterface.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -1270,6 +1437,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
 				HEADER_SEARCH_PATHS = (
@@ -1293,6 +1461,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1445,6 +1614,67 @@
 			};
 			name = Release;
 		};
+		519419772236AD49009FBE50 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 49LZN2ZTBU;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				HEADER_SEARCH_PATHS = "$(SRCROOT)/../node_modules/react-native-share-extension/ios/**";
+				INFOPLIST_FILE = MyShareEx/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				OTHER_LDFLAGS = (
+					"-lc++",
+					"-ObjC",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = org.reactjs.native.example.Addit.MyShareEx;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		519419782236AD49009FBE50 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 49LZN2ZTBU;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				HEADER_SEARCH_PATHS = "$(SRCROOT)/../node_modules/react-native-share-extension/ios/**";
+				INFOPLIST_FILE = MyShareEx/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				OTHER_LDFLAGS = (
+					"-lc++",
+					"-ObjC",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = org.reactjs.native.example.Addit.MyShareEx;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 		83CBBA201A601CBA00E9B192 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -1579,6 +1809,15 @@
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
 				2D02E49A1E0B4A5E006451C7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5194199F2236AD49009FBE50 /* Build configuration list for PBXNativeTarget "MyShareEx" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				519419772236AD49009FBE50 /* Debug */,
+				519419782236AD49009FBE50 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
